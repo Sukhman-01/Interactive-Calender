@@ -1,2 +1,2 @@
-# Interactive-Calender
-As part of a 1st year University project for the course CSE-326 (2nd Sem)
+# Sukhman-01.github.io
+ Website for CSE326 Project - Interactive Calendar
